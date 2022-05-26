@@ -36,6 +36,41 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Apple Pie",
+      "ingredients": [
+        "apples",
+        "sugar",
+        "crust"
+      ],
+      "method": "throw in oven at 350 deg.",
+      "cookingTime": "45minutes",
+      "id": "1EhcUFQ"
+    },
+    {
+      "title": "Burrito",
+      "ingredients": [
+        "steak",
+        "salsa",
+        "rice",
+        "beans",
+        "tortilla"
+      ],
+      "method": "wrap it up",
+      "cookingTime": "10minutes",
+      "id": "2ow_ebx"
+    },
+    {
+      "title": "Taco",
+      "ingredients": [
+        "chix",
+        "onions",
+        "cilantro"
+      ],
+      "method": "mix up",
+      "cookingTime": "5minutes",
+      "id": "eGDKNOv"
     }
   ]
 }
